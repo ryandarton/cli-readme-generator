@@ -35,6 +35,11 @@ const questions = [
   },
   {
     type: 'input',
+    name: 'installation',
+    message: 'What are the steps required to install your project?',
+  },
+  {
+    type: 'input',
     name: 'imagePath',
     message: 'Enter the file path of the PNG image to include in the README (e.g., ./path/to/image.png):',
   },
