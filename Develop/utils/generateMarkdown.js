@@ -64,8 +64,8 @@ ${data.tests}
 - GitHub: [${data.github}](https://github.com/${data.github})
 - Email: ${data.email}
 
-${renderLicenseBadge(data.license)}
 ${renderLicenseSection(data.license)}
+${renderLicenseBadge(data.license)}
 `;
 }
 
