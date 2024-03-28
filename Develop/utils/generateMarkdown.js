@@ -39,6 +39,13 @@ ${data.description}
 - ${data.solve}
 - ${data.lessons}
 
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [Tests](#tests)
+- [Questions](#questions)
+
 ## Installation
 ${data.installation}
 
@@ -49,6 +56,9 @@ ${data.installation}
 
 ## Credits
 ${data.credits}
+
+## Tests
+${data.tests}
 
 ## Questions
 - GitHub: [${data.github}](https://github.com/${data.github})
